@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Python 
 - 📫 How to reach me: duanyrocker.tuffy@gmail.com 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: JS / HTML / CSS/ PYTHON / SQL / 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duanyrocker)](https://github.com/anuraghazra/github-readme-stats)
